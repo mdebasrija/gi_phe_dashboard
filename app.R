@@ -9,7 +9,7 @@ library(data.table)
 library(fresh)
 
 #Google tag here 
-GA_ID <- "G-2CZ0PZ15NQ"
+GA_ID <- "***Google Tag Here***"
 
 # -------- LOAD PRE-PROCESSED DATA (FAST) --------
 cat("Loading pre-processed data...\n")
